@@ -1,0 +1,6 @@
+//   .createElement  Cria o elemento <li>
+//  .textContent     Adiciona o nome do amigo ao <li>
+// .appendChild      Adiciona o <li> à lista <ul>
+
+Math.floor() arredonda para baixo, garantindo um número inteiro válido para o índice.
+Math.random() * amigos.length gera um número aleatório entre 0 e o comprimento do array.
